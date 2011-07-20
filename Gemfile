@@ -22,7 +22,6 @@ gem 'sqlite3', '1.3.3', :group => :development
 # gem 'nokogiri'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'aws-s3', :require => 'aws/s3'
-gem 'rake', '0.8.7'
 
 # Bundle gems for the local environment. Make sure to
 # put test-only gems in this group so their generators
